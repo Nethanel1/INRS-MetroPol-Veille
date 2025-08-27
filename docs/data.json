@@ -1,0 +1,3326 @@
+{
+  "last_updated_utc": "2025-08-27T10:56:15.213955+00:00",
+  "fiches_count": 415,
+  "data": [
+    {
+      "id": "METROPOL_28",
+      "title": "",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_28",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_135",
+      "title": "1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_135",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_169",
+      "title": "1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_169",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_177",
+      "title": "1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_177",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_398",
+      "title": "1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_398",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_424",
+      "title": "1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_424",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_5",
+      "title": "1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_5",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_394",
+      "title": "1,1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_394",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_401",
+      "title": "1,1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_401",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_409",
+      "title": "1,1,1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_409",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_414",
+      "title": "1,1,1",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_414",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_408",
+      "title": "1,1,2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_408",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_393",
+      "title": "1,2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_393",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_396",
+      "title": "1,2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_396",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_395",
+      "title": "1,2 Dichloroéthane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_395",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_334",
+      "title": "1,2,3",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_334",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_331",
+      "title": "1,2,4",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_331",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_333",
+      "title": "1,3,5",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_333",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_31",
+      "title": "1.3",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_31",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_52",
+      "title": "1.3",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_52",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_80",
+      "title": "1.3",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_80",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_399",
+      "title": "1chloro",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_399",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_157",
+      "title": "2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_157",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_397",
+      "title": "2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_397",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_88",
+      "title": "2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_88",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_174",
+      "title": "2,4",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_174",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_220",
+      "title": "2,4 Dinitrotoluène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_220",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_221",
+      "title": "2,6",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_221",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_112",
+      "title": "4,4",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_112",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_339",
+      "title": "AOZ M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_339",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_291",
+      "title": "Acide acrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_291",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_297",
+      "title": "Acide acrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_297",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_303",
+      "title": "Acide acrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_303",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_327",
+      "title": "Acide acrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_327",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_288",
+      "title": "Acide acétique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_288",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_300",
+      "title": "Acide acétique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_300",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_321",
+      "title": "Acide acétique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_321",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_423",
+      "title": "Acide acétique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_423",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_290",
+      "title": "Acide chloroacétique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_290",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_296",
+      "title": "Acide chloroacétique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_296",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_302",
+      "title": "Acide chloroacétique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_302",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_113",
+      "title": "Acide fluorhydrique et composés particulaires fluorés M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_113",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_287",
+      "title": "Acide formique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_287",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_293",
+      "title": "Acide formique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_293",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_299",
+      "title": "Acide formique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_299",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_326",
+      "title": "Acide formique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_326",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_292",
+      "title": "Acide méthacrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_292",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_298",
+      "title": "Acide méthacrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_298",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_304",
+      "title": "Acide méthacrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_304",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_328",
+      "title": "Acide méthacrylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_328",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_329",
+      "title": "Acide oxalique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_329",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_213",
+      "title": "Acide peracétique et peroxyde d'hydrogène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_213",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_214",
+      "title": "Acide peracétique et peroxyde d'hydrogène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_214",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_289",
+      "title": "Acide propionique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_289",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_295",
+      "title": "Acide propionique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_295",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_301",
+      "title": "Acide propionique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_301",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_70",
+      "title": "Acroléine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_70",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_3",
+      "title": "Acrylamide M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_3",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_105",
+      "title": "Acrylate d'hydroxypropyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_105",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_35",
+      "title": "Acrylate de 2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_35",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_66",
+      "title": "Acétaldéhyde M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_66",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_89",
+      "title": "Acétamide M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_89",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_90",
+      "title": "Acétamide M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_90",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_358",
+      "title": "Acétate d'isopropyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_358",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_354",
+      "title": "Acétate d'éthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_354",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_143",
+      "title": "Acétate d'éthylglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_143",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_138",
+      "title": "Acétate de 2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_138",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_133",
+      "title": "Acétate de Butylglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_133",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_263",
+      "title": "Acétate de benzyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_263",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_78",
+      "title": "Acétate de benzyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_78",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_356",
+      "title": "Acétate de méthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_356",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_140",
+      "title": "Acétate de méthylglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_140",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_351",
+      "title": "Acétate de n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_351",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_192",
+      "title": "Acétone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_192",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_37",
+      "title": "Acétone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_37",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_431",
+      "title": "Acétonitrile M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_431",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_45",
+      "title": "Aflatoxines M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_45",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_39",
+      "title": "Alcool furfurylique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_39",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_444",
+      "title": "Allergène ciblé M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_444",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_441",
+      "title": "Allergènes  M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_441",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_197",
+      "title": "Allylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_197",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_363",
+      "title": "Allylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_363",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_50",
+      "title": "Amiante M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_50",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_93",
+      "title": "Amiante M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_93",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_337",
+      "title": "Amitrole M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_337",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_13",
+      "title": "Ammoniac et sels d'ammonium M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_13",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_6",
+      "title": "Anhydride Maléique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_6",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_151",
+      "title": "Anhydride sulfureux M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_151",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_152",
+      "title": "Anhydride sulfureux M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_152",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_155",
+      "title": "Anhydride sulfureux M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_155",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_217",
+      "title": "Anhydrides phtalique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_217",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_203",
+      "title": "Aniline M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_203",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_137",
+      "title": "Anions minéraux M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_137",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_144",
+      "title": "Anions minéraux M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_144",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_53",
+      "title": "Anions minéraux M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_53",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_134",
+      "title": "Arsenic",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_134",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_283",
+      "title": "Arsenic et Trioxyde de di",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_283",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_200",
+      "title": "Aérosols basiques M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_200",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_277",
+      "title": "Aérosols en fraction alvéolaire M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_277",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_278",
+      "title": "Aérosols en fraction alvéolaire M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_278",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_281",
+      "title": "Aérosols en fraction alvéolaire M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_281",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_264",
+      "title": "Aérosols en fraction inhalable M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_264",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_279",
+      "title": "Aérosols en fraction inhalable M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_279",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_456",
+      "title": "Aérosols en fraction inhalable M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_456",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_276",
+      "title": "Aérosols en fraction thoracique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_276",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_280",
+      "title": "Aérosols en fraction thoracique M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_280",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_136",
+      "title": "Benzisothiazolone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_136",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_237",
+      "title": "Benzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_237",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_243",
+      "title": "Benzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_243",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_40",
+      "title": "Benzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_40",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_389",
+      "title": "Bromochlorométhane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_389",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_390",
+      "title": "Bromochlorométhane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_390",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_392",
+      "title": "Bromoforme M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_392",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_215",
+      "title": "Bromure de methyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_215",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_47",
+      "title": "Bromure de méthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_47",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_106",
+      "title": "Butanone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_106",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_191",
+      "title": "Butanone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_191",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_166",
+      "title": "Butyldiglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_166",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_372",
+      "title": "Butyldiglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_372",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_118",
+      "title": "Butylglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_118",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_307",
+      "title": "Béryllium et ses composés M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_307",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_308",
+      "title": "Béryllium et ses composés M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_308",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_338",
+      "title": "COV M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_338",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_433",
+      "title": "Cadmium, Nickel, Plomb, Manganèse M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_433",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_33",
+      "title": "Chlorobenzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_33",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_373",
+      "title": "Chlorodifluorométhane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_373",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_411",
+      "title": "Chloroforme M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_411",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_432",
+      "title": "Chloroforme M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_432",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_126",
+      "title": "Chloroéthane  M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_126",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_123",
+      "title": "Chloroéthane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_123",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_22",
+      "title": "Chlortoluron M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_22",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_43",
+      "title": "Chrome VI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_43",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_430",
+      "title": "Chrome VI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_430",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_458",
+      "title": "Composés polybromés M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_458",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_309",
+      "title": "Comptage des fibres M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_309",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_181",
+      "title": "Crésols M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_181",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_267",
+      "title": "Cumène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_267",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_185",
+      "title": "Cyanoacrylate d'éthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_185",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_187",
+      "title": "Cyanoacrylate d'éthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_187",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_180",
+      "title": "Cyanoacrylate de méthyl M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_180",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_186",
+      "title": "Cyanoacrylate de méthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_186",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_178",
+      "title": "Cyanures M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_178",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_179",
+      "title": "Cyanures M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_179",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_36",
+      "title": "Cyclohexanone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_36",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_365",
+      "title": "Cyclohexylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_365",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_223",
+      "title": "Cyclonite M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_223",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_79",
+      "title": "DMSO M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_79",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_101",
+      "title": "Deltaméthrine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_101",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_370",
+      "title": "Desflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_370",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_371",
+      "title": "Desflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_371",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_110",
+      "title": "Diacétone alcool M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_110",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_364",
+      "title": "Diallylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_364",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_375",
+      "title": "Diazinon M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_375",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_403",
+      "title": "Dibromoéthane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_403",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_362",
+      "title": "Dibutylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_362",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_388",
+      "title": "Dichlorodifluorométhane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_388",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_30",
+      "title": "Dichlorométhane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_30",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_56",
+      "title": "Dichlorométhane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_56",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_400",
+      "title": "Dichloropropènes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_400",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_376",
+      "title": "Dichlorvos M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_376",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_382",
+      "title": "Dichlorvos M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_382",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_109",
+      "title": "Diisobutylcétone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_109",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_195",
+      "title": "Diisobutylcétone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_195",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_359",
+      "title": "Diisopropylmine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_359",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_377",
+      "title": "Diméthoate M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_377",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_346",
+      "title": "Diméthylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_346",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_10",
+      "title": "Diméthylsulfoxyde M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_10",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_9",
+      "title": "Diméthylsulfoxyde M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_9",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_207",
+      "title": "Dioxyde de chlore M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_207",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_353",
+      "title": "Dipropylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_353",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_100",
+      "title": "Diuron M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_100",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_225",
+      "title": "Diéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_225",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_269",
+      "title": "Diéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_269",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_272",
+      "title": "Diéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_272",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_198",
+      "title": "Diéthylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_198",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_350",
+      "title": "Diéthylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_350",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_367",
+      "title": "Diéthylènetriamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_367",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_378",
+      "title": "Dursban M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_378",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_383",
+      "title": "Dursban M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_383",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_103",
+      "title": "ETBE M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_103",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_29",
+      "title": "ETBE M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_29",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_436",
+      "title": "Emissions particulaires d'échappements de moteurs Diesel M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_436",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_454",
+      "title": "Endotoxines M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_454",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_161",
+      "title": "Enflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_161",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_162",
+      "title": "Enflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_162",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_54",
+      "title": "Esters M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_54",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_20",
+      "title": "Esters dibasiques M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_20",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_262",
+      "title": "Esters dibasiques M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_262",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_442",
+      "title": "Ethanol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_442",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_347",
+      "title": "Ethylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_347",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_238",
+      "title": "Ethylbenzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_238",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_265",
+      "title": "Ethylbenzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_265",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_201",
+      "title": "Ethyldimethylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_201",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_141",
+      "title": "Ethylglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_141",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_421",
+      "title": "Ethyltoluènes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_421",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_366",
+      "title": "Ethylènediamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_366",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_443",
+      "title": "Famille d'allergènes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_443",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_311",
+      "title": "Fibres inorganiques M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_311",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_282",
+      "title": "Fluides d'usinage M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_282",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_446",
+      "title": "Fluides de coupe M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_446",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_4",
+      "title": "Formaldéhyde M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_4",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_27",
+      "title": "Formamide M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_27",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_72",
+      "title": "Formamide M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_72",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_404",
+      "title": "Fréon 113 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_404",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_51",
+      "title": "Fumarate de diméthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_51",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_46",
+      "title": "Fumonisine B1 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_46",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_2",
+      "title": "Fumées de bitume M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_2",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_340",
+      "title": "Fumées de vulcanisation M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_340",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_69",
+      "title": "Furaldéhyde M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_69",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_379",
+      "title": "Fénitrothion M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_379",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_384",
+      "title": "Fénitrothion M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_384",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_67",
+      "title": "Glutaraldéhyde M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_67",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_68",
+      "title": "Glyoxal M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_68",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_332",
+      "title": "HAP M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_332",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_448",
+      "title": "HAP M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_448",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_232",
+      "title": "HDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_232",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_233",
+      "title": "HDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_233",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_451",
+      "title": "HDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_451",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_418",
+      "title": "HHPA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_418",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_150",
+      "title": "Halothane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_150",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_156",
+      "title": "Halothane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_156",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_402",
+      "title": "Hexachloroéthane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_402",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_323",
+      "title": "Hexadécane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_323",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_7",
+      "title": "Hydrazine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_7",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_12",
+      "title": "Hydrazines M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_12",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_260",
+      "title": "IPDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_260",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_261",
+      "title": "IPDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_261",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_82",
+      "title": "Isobutanol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_82",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_159",
+      "title": "Isoflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_159",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_160",
+      "title": "Isoflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_160",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_14",
+      "title": "Isomères du Dichlorobenzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_14",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_85",
+      "title": "Isopentanol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_85",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_107",
+      "title": "Isophorone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_107",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_24",
+      "title": "Isopropanol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_24",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_357",
+      "title": "Isopropylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_357",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_99",
+      "title": "Isoproturon M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_99",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_148",
+      "title": "Isothiazolones M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_148",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_234",
+      "title": "MDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_234",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_235",
+      "title": "MDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_235",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_447",
+      "title": "MDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_447",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_417",
+      "title": "MHHPA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_417",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_128",
+      "title": "MTBE M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_128",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_459",
+      "title": "MTBE M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_459",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_305",
+      "title": "MTHPA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_305",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_385",
+      "title": "Malathion M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_385",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_437",
+      "title": "Manganèse M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_437",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_114",
+      "title": "Mercure M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_114",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_119",
+      "title": "Mercure M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_119",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_96",
+      "title": "Mercure M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_96",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_18",
+      "title": "Methyldiglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_18",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_355",
+      "title": "Methyldiglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_355",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_194",
+      "title": "Methylisobutylcétone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_194",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_147",
+      "title": "Microorganismes aérobies M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_147",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_268",
+      "title": "Monoéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_268",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_271",
+      "title": "Monoéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_271",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_32",
+      "title": "Monoéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_32",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_204",
+      "title": "Morpholine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_204",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_368",
+      "title": "Morpholine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_368",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_419",
+      "title": "Mélange d'anhydrides HHPA et MHHPA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_419",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_188",
+      "title": "Mélange de vapeurs d'hydrocarbures C6 à C12 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_188",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_426",
+      "title": "Mélanges de mycotoxines dans l'air M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_426",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_120",
+      "title": "Métaux et métalloïdes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_120",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_121",
+      "title": "Métaux et métalloïdes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_121",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_122",
+      "title": "Métaux et métalloïdes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_122",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_124",
+      "title": "Métaux et métalloïdes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_124",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_125",
+      "title": "Métaux et métalloïdes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_125",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_439",
+      "title": "Métaux et métalloïdes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_439",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_26",
+      "title": "Méthanol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_26",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_255",
+      "title": "Méthylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_255",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_139",
+      "title": "Méthylglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_139",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_108",
+      "title": "Méthylisobutylcétone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_108",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_380",
+      "title": "Méthylparathion M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_380",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_386",
+      "title": "Méthylparathion M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_386",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_381",
+      "title": "Mévinphos M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_381",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_387",
+      "title": "Mévinphos M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_387",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_149",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_149",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_15",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_15",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_228",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_228",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_422",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_422",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_73",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_73",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_74",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_74",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_76",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_76",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_91",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_91",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_92",
+      "title": "N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_92",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_111",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_111",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_115",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_115",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_116",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_116",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_117",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_117",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_202",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_202",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_369",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_369",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_94",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_94",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_95",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_95",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_97",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_97",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_98",
+      "title": "N,N",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_98",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_316",
+      "title": "NDBA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_316",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_314",
+      "title": "NDEA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_314",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_253",
+      "title": "NDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_253",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_254",
+      "title": "NDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_254",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_312",
+      "title": "NDMA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_312",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_315",
+      "title": "NDPA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_315",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_317",
+      "title": "NMEA M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_317",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_320",
+      "title": "NMor M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_320",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_318",
+      "title": "NPip M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_318",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_319",
+      "title": "NPyr M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_319",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_17",
+      "title": "Nitrobenzène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_17",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_8",
+      "title": "Nitroglycol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_8",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_218",
+      "title": "Nitroglycérine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_218",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_322",
+      "title": "Nitrosamines M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_322",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_42",
+      "title": "O",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_42",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_48",
+      "title": "Ochratoxine A M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_48",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_224",
+      "title": "Octogène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_224",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_49",
+      "title": "Octylisothiazolinone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_49",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_457",
+      "title": "Organophosphorés M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_457",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_55",
+      "title": "Oxyde d'éthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_55",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_59",
+      "title": "Oxyde d'éthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_59",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_60",
+      "title": "Oxyde d'éthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_60",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_342",
+      "title": "Particules émises par des moteurs diesel M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_342",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_86",
+      "title": "Pentanol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_86",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_219",
+      "title": "Pentrite M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_219",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_211",
+      "title": "Peroxyde d'hydrogène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_211",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_212",
+      "title": "Peroxyde d'hydrogène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_212",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_343",
+      "title": "Phosgène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_343",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_21",
+      "title": "Phosphate de tributyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_21",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_168",
+      "title": "Phtalate de benzyle et de butyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_168",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_172",
+      "title": "Phtalate de benzyle et de butyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_172",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_170",
+      "title": "Phtalate de bis(2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_170",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_173",
+      "title": "Phtalate de bis(2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_173",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_167",
+      "title": "Phtalate de dibutyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_167",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_165",
+      "title": "Phtalate de diisobutyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_165",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_57",
+      "title": "Phtalate de diméthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_57",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_171",
+      "title": "Phtalate de dinonyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_171",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_175",
+      "title": "Phtalate de dinonyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_175",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_153",
+      "title": "Phtalate de diéthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_153",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_182",
+      "title": "Phénol M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_182",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_324",
+      "title": "Polyisocyanates HDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_324",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_330",
+      "title": "Polyisocyanates HDI M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_330",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_434",
+      "title": "Poudres métalliques sédimentées M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_434",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_450",
+      "title": "Poussières M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_450",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_275",
+      "title": "Poussières de bois M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_275",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_415",
+      "title": "Protoxyde d'azote M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_415",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_416",
+      "title": "Protoxyde d'azote M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_416",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_325",
+      "title": "Pyrène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_325",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_310",
+      "title": "Quartz M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_310",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_435",
+      "title": "Sels métalliques M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_435",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_163",
+      "title": "Sevoflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_163",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_164",
+      "title": "Sevoflurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_164",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_208",
+      "title": "Silicate d'éthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_208",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_455",
+      "title": "Silice amorphe nanostructurée M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_455",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_158",
+      "title": "Silice cristalline M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_158",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_176",
+      "title": "Silice cristalline M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_176",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_427",
+      "title": "Siloxane D4 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_427",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_428",
+      "title": "Siloxane D5 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_428",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_239",
+      "title": "Styrène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_239",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_266",
+      "title": "Styrène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_266",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_449",
+      "title": "Suie M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_449",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_344",
+      "title": "Sulfate de diméthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_344",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_62",
+      "title": "Sulfate de diméthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_62",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_63",
+      "title": "Sulfate de diméthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_63",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_345",
+      "title": "Sulfate de diéthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_345",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_64",
+      "title": "Sulfate de diéthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_64",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_65",
+      "title": "Sulfate de diéthyle M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_65",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_209",
+      "title": "Sulfotep M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_209",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_210",
+      "title": "Sulfotep M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_210",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_184",
+      "title": "Sulfure d'hydrogène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_184",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_11",
+      "title": "Sulfure de carbone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_11",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_16",
+      "title": "Sulfure de carbone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_16",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_102",
+      "title": "TAME M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_102",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_452",
+      "title": "TDI 2",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_452",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_245",
+      "title": "TDI 2,4 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_245",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_246",
+      "title": "TDI 2,4 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_246",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_249",
+      "title": "TDI 2,6 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_249",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_250",
+      "title": "TDI 2,6 M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_250",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_240",
+      "title": "Toluène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_240",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_256",
+      "title": "Toluène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_256",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_41",
+      "title": "Toluène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_41",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_336",
+      "title": "Trichlorobenzènes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_336",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_391",
+      "title": "Trichlorofluorométhane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_391",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_410",
+      "title": "Trichloroéthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_410",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_453",
+      "title": "Trichlorure d'azote (trichloramine) M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_453",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_104",
+      "title": "Trichlorure d'azote (trichloramines) et autres composés chlorés M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_104",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_412",
+      "title": "Trichloréthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_412",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_413",
+      "title": "Trichloréthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_413",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_206",
+      "title": "Triméthylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_206",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_420",
+      "title": "Triméthylbenzènes M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_420",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_222",
+      "title": "Trinitrotoluène (TNT) M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_222",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_226",
+      "title": "Triéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_226",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_270",
+      "title": "Triéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_270",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_273",
+      "title": "Triéthanolamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_273",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_205",
+      "title": "Triéthylamine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_205",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_25",
+      "title": "Téfluthrine M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_25",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_405",
+      "title": "Tétrachloroéthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_405",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_407",
+      "title": "Tétrachloroéthylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_407",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_313",
+      "title": "Tétrafluoroéthane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_313",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_44",
+      "title": "Tétrahydrofurane M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_44",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_242",
+      "title": "Xylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_242",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_257",
+      "title": "Xylène M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_257",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_306",
+      "title": "Zéaralénone M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_306",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_142",
+      "title": "gamma",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_142",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_71",
+      "title": "iso et n Valéraldéhyde M",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_71",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_285",
+      "title": "m",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_285",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_146",
+      "title": "n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_146",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_352",
+      "title": "n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_352",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_360",
+      "title": "n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_360",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_75",
+      "title": "n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_75",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_81",
+      "title": "n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_81",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_83",
+      "title": "n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_83",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_87",
+      "title": "n",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_87",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_23",
+      "title": "o",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_23",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_241",
+      "title": "o",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_241",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_284",
+      "title": "o",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_284",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_286",
+      "title": "p",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_286",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_361",
+      "title": "ter",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_361",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_84",
+      "title": "ter",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_84",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_183",
+      "title": "Ɛ",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_183",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    },
+    {
+      "id": "METROPOL_189",
+      "title": "Ɛ",
+      "url": "https://www.inrs.fr/publications/bdd/metropol/fiche.html?refINRS=METROPOL_189",
+      "history": [
+        "Aucun historique disponible."
+      ]
+    }
+  ]
+}

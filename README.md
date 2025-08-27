@@ -3,7 +3,7 @@
 
 Ce projet a pour but de suivre automatiquement les mises à jour des fiches "Metropol" publiées par l'INRS (Institut National de Recherche et de Sécurité).
 
-Le site web généré est visible ici : [Lien vers votre GitHub Pages]
+Le site web généré est visible ici : [https://nethanel1.github.io/INRS-MetroPol-Veille/](https://nethanel1.github.io/INRS-MetroPol-Veille/)
 
 ## Fonctionnement
 

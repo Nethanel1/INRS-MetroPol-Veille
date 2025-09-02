@@ -18,7 +18,7 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, 'data.json')
 
 def get_list_by_name_url():
     """Trouve l'URL du PDF 'Liste des méthodes disponibles par nom'."""
-    print(f"Accès à la page d\'accueil Metropol : {METROPOL_HOME_URL}")
+    print(f"Accès à la page d'accueil Metropol : {METROPOL_HOME_URL}")
     try:
         response = requests.get(METROPOL_HOME_URL)
         response.raise_for_status()
@@ -29,7 +29,7 @@ def get_list_by_name_url():
             print(f"URL du PDF trouvée : {url}")
             return url
     except Exception as e:
-        print(f"Erreur lors de la recherche de l\'URL du PDF : {e}")
+        print(f"Erreur lors de la recherche de l'URL du PDF : {e}")
     return None
 
 def get_all_fiches_from_pdf(pdf_url):
@@ -74,23 +74,23 @@ def get_fiche_details(fiche_url):
     try:
         response = requests.get(fiche_url)
         response.raise_for_status()
-        soup = BeautifulSoup(response.content, '''html.parser''')
+        soup = BeautifulSoup(response.content, 'html.parser')
 
         # Stratégie de titre : utiliser la balise <title> en priorité
         if soup.title and soup.title.string:
             # Nettoyer le titre : "Fumées de bitume M-2 - MétroPol - INRS" -> "Fumées de bitume M-2"
-            title = soup.title.string.split('''-''')[0].strip()
+            title = soup.title.string.split('-')[0].strip()
         else:
             # Fallback sur le premier H1 si la balise title est absente
-            title_tag = soup.find('''h1''')
+            title_tag = soup.find('h1')
             title = title_tag.get_text(strip=True) if title_tag else "Titre non trouvé"
 
         history = []
-        history_title = soup.find('''h2''', string=lambda text: text and '''historique''' in text.lower())
+        history_title = soup.find('h2', string=lambda text: text and 'historique' in text.lower())
         if history_title:
-            history_container = history_title.find_next_sibling('''div''')
+            history_container = history_title.find_next_sibling('div')
             if history_container:
-                items = history_container.find_all(['''p''', '''li'''])
+                items = history_container.find_all(['p', 'li'])
                 for item in items:
                     text = item.get_text(strip=True)
                     if text:

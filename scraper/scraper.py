@@ -67,7 +67,6 @@ def get_all_fiches_from_pdf(pdf_url):
         print(f"Une erreur est survenue lors du traitement du PDF : {e}")
         return []
 
-
 def get_fiche_details(fiche_url):
     """Extrait le titre et l'historique d'une fiche."""
     print(f"  -> Extraction de : {fiche_url}")
@@ -76,10 +75,9 @@ def get_fiche_details(fiche_url):
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # Stratégie de titre : utiliser la balise <title> en priorité
+        # Stratégie de titre : utiliser la balise <title> et supprimer le suffixe
         if soup.title and soup.title.string:
-            # Nettoyer le titre : "Fumées de bitume M-2 - MétroPol - INRS" -> "Fumées de bitume M-2"
-            title = soup.title.string.split('-')[0].strip()
+            title = soup.title.string.replace(' - MétroPol - INRS', '').strip()
         else:
             # Fallback sur le premier H1 si la balise title est absente
             title_tag = soup.find('h1')
@@ -90,15 +88,25 @@ def get_fiche_details(fiche_url):
         if history_title:
             history_container = history_title.find_next_sibling('div')
             if history_container:
-                items = history_container.find_all(['p', 'li'])
-                for item in items:
-                    text = item.get_text(strip=True)
-                    if text:
-                        history.append(text)
+                # Trouver tous les paragraphes et nettoyer le texte
+                items = [p.get_text(strip=True) for p in history_container.find_all('p') if p.get_text(strip=True)]
+                
+                # La structure est : 3 en-têtes, puis des groupes de 3 pour chaque entrée
+                if len(items) > 3:
+                    # Ignorer les 3 premiers éléments (les en-têtes)
+                    history_data = items[3:]
+                    # Grouper les données par 3
+                    for i in range(0, len(history_data), 3):
+                        if i + 2 < len(history_data):
+                            history.append({
+                                'version': history_data[i],
+                                'date': history_data[i+1],
+                                'modification': history_data[i+2]
+                            })
+
         return title, history
     except requests.RequestException:
         return "Fiche non trouvée", []
-
 
 def main():
     """Fonction principale."""
@@ -121,7 +129,7 @@ def main():
                 'id': fiche['url'].split('=')[-1],
                 'title': title,
                 'url': fiche['url'],
-                'history': history if history else ["Aucun historique disponible."]
+                'history': history if history else [{"version": "N/A", "date": "N/A", "modification": "Aucun historique disponible."}]
             })
             # Encodage pour la console Windows, en ignorant les caractères non supportés
             title_for_print = title.encode('cp1252', errors='replace').decode('cp1252')

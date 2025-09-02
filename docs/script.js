@@ -44,7 +44,15 @@ document.addEventListener('DOMContentLoaded', () => {
     function displayFiches(fiches) {
         accordionContainer.innerHTML = '';
         fiches.forEach((fiche, index) => {
-            const historyHtml = fiche.history.map(item => `<li>${item}</li>`).join('');
+            let historyHtml = '<ul>';
+            if (fiche.history && fiche.history.length > 0) {
+                fiche.history.forEach(item => {
+                    historyHtml += `<li><strong>Version ${item.version}</strong> (${item.date}): ${item.modification}</li>`;
+                });
+            } else {
+                historyHtml += '<li>Aucun historique disponible.</li>';
+            }
+            historyHtml += '</ul>';
 
             const accordionItem = `
                 <div class="accordion-item">
@@ -56,9 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div id="collapse-${index}" class="accordion-collapse collapse" aria-labelledby="heading-${index}" data-bs-parent="#metropolAccordion">
                         <div class="accordion-body">
                             <p><strong>Historique des versions :</strong></p>
-                            <ul>
-                                ${historyHtml}
-                            </ul>
+                            ${historyHtml}
                             <a href="${fiche.url}" target="_blank" class="btn btn-sm btn-outline-primary mt-2">
                                 Voir la fiche sur inrs.fr <i class="bi bi-box-arrow-up-right"></i>
                             </a>
